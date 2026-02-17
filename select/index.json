@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "トゥイステッド・トランジスター",
+  "base_artist": "Korn",
+  "createdAt": "2026-02-17T09:41:53.481487Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Twisted Transistor",
+      "artist": "KoRn",
+      "has_synced": false,
+      "path": "select/pl_01_Twisted_Transistor_KoRn.txt"
+    }
+  ]
+}
